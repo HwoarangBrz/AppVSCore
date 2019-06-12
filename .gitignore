@@ -1,0 +1,14 @@
+# Log file
+*.log
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+
+# build folders
+Hwrng.B3.Variable.Income/bin/
+Hwrng.B3.Variable.Income/obj/
+packages/
+
